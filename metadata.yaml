@@ -1,0 +1,26 @@
+_repo: Mitchelhurst-Place-Vol.-I--of-2-A-Novel_39345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Veley, Margaret
+    birthdate: 1843
+    deathdate: 1887
+    gutenberg_agent_id: '39979'
+    url: http://www.gutenberg.org/2009/agents/39979
+description: ''
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Mitchelhurst Place: A Novel. Vol. 1 (of 2)'
+url: http://www.gutenberg.org/ebooks/39345
